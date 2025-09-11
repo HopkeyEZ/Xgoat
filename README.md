@@ -11,7 +11,7 @@ Xgoat 是一款简洁的服务器管理工具，支持以下功能：
 
 使用方法
 
-1. 下载发布页的编译版本（Windows/Linux）  
+1. 下载发布页的编译版本（Windows）  
 2. 启动后输入服务器连接信息  
 3. 选择文件进行同步，或进入 **数据库管理** 标签页操作 MySQL  
 4. 注意：第一次连接服务器时，会在服务器根目录下生成一个 `Xgoat` 文件夹  
@@ -35,7 +35,7 @@ Xgoat is a lightweight server management tool with the following features:
 
 Usage
 
-1. Download the compiled release (Windows/Linux) from the release page  
+1. Download the compiled release (Windows) from the release page  
 2. Start the program and enter your server connection info  
 3. Select files for synchronization, or switch to the **Database Management** tab to manage MySQL  
 4. Note: On the first connection, a `Xgoat` folder will be created in the server root directory  
