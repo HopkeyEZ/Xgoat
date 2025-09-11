@@ -1,5 +1,3 @@
-Xgoat
-
 <img src="icon.png" alt="Xgoat Logo" width="120">
 
 Xgoat 是一款简洁的服务器管理工具，支持以下功能：
